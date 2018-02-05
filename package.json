@@ -2,7 +2,7 @@
 	"name": "Toxic Gem Bot",
 	"description": "",
 	"version": "1.0.0",
-	"main": "toxicgembot.js",
+	"main": "bot.js",
 	"scripts": {
 		"start": "node bot.js"
 	},
